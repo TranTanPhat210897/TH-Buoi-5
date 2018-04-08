@@ -1,0 +1,9 @@
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Server\bin\Debug\Server.exe.config
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Server\bin\Debug\Server.exe
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Server\bin\Debug\Server.pdb
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Server\obj\Debug\Server.Form1.resources
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Server\obj\Debug\Server.Properties.Resources.resources
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Server\obj\Debug\Server.exe
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Server\obj\Debug\Server.pdb
